@@ -1,0 +1,25 @@
+body {
+    background-color:white;
+}
+nav{
+    background-color: rgba(203, 220, 230, 0.543);
+}
+.li-test{
+    border-top: solid black;
+}
+.zero-margin{
+    margin: 0px;
+}
+.col-xs-12{
+    background-color: whitesmoke;
+    margin-bottom: 8px;
+    margin-left: 18px;
+    margin-right: 18px;
+}
+.para-head{
+    padding-top: 8px;
+    margin-bottom: 8px;
+}
+.faaake-long-para{
+    height:700px;
+}
